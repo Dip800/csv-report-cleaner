@@ -1,2 +1,11 @@
-# csv-report-cleaner
-A simple Python tool for cleaning CSV reports and removing duplicate or empty records.
+## Example
+
+### Input
+
+```csv
+Name,Email
+John,john@example.com
+John,john@example.com
+
+Sarah,sarah@example.com
+Dip,dip@example.com
